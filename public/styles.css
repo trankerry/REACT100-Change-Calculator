@@ -1,0 +1,12 @@
+.bills, .coins, .outcomeAlerts{
+    border: none;
+}
+
+h1 {
+    color: white;
+}
+
+hr{
+    background-color: white;
+    color: white;
+}
